@@ -1,0 +1,87 @@
+
+.book{
+   
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 30px;
+    text-align: center;
+}
+.B{
+    
+      background-image: url("obj.png");
+      background-size: cover;
+      height: 100vh;
+      margin: 0;
+    flex: 25%;
+
+}
+.A{
+    flex: 50%;
+}
+.A h2{
+    padding-right: 500px;
+    padding-top: 30px;
+    color: #F79E00;
+    font-family: 'HeadlandOne';
+    font-size: 32px;
+}
+ 
+.rose{
+    padding: 20px;
+    display: flex;
+}
+.jack{
+    padding-right: 420px;
+    padding-top: 10px;
+    font-size: 20px;
+}
+.jack h1{
+ font-family: 'Open Sans';
+ font-style: normal; 
+ color: #000000;
+ font-weight: 1000px;
+ font-size: 48px;
+}
+.rush{
+    margin-top: -30px;
+    padding-right: 30px;
+    font-size: 18px;
+
+}
+.form{
+    padding-right: 200px;
+    padding-top: 70px;
+}
+
+input{
+    padding-left: 200px;
+    padding-bottom: 15px;
+    padding-right: 200px;
+    border: 0.5;
+    
+}
+button{
+    border-radius: 30px;
+    padding-left: 250px;
+    padding-bottom: 15px;
+    padding-right: 290px;
+    background-color: #F79E00;
+    border: 0;
+}
+.man{
+  padding-left: 100px;
+  text-align: left;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: 'Open Sans';
+
+}
+label{
+    float
+}
+
+
+
+
+
+
